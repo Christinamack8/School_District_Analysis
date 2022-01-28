@@ -29,15 +29,14 @@ The school board has evidence of academic dishonesty; specifically, reading and 
   ![Screen Shot 2022-01-27 at 7 53 08 PM](https://user-images.githubusercontent.com/95730183/151479964-7c6bfd67-9c13-4d11-be14-5f94ee770b82.png)
 
   * Scores by school spending
-  ![Screen Shot 2022-01-27 at 7 53 16 PM](https://user-images.githubusercontent.com/95730183/151480260-ba9d5c99-c160-43a4-be54-4654ef0e3e46.png)
+![Screen Shot 2022-01-27 at 7 53 16 PM](https://user-images.githubusercontent.com/95730183/151480260-ba9d5c99-c160-43a4-be54-4654ef0e3e46.png)
 
      
   * Scores by school size
-
-   ![Screen Shot 2022-01-27 at 7 53 25 PM](https://user-images.githubusercontent.com/95730183/151480299-d8777bc9-3629-4963-89c6-803881621f6b.png)
+![Screen Shot 2022-01-27 at 7 53 25 PM](https://user-images.githubusercontent.com/95730183/151480299-d8777bc9-3629-4963-89c6-803881621f6b.png)
 
   * Scores by school type
- ![Screen Shot 2022-01-27 at 7 53 33 PM](https://user-images.githubusercontent.com/95730183/151480309-44bb06c6-0e3c-42b0-9b2a-9e1bc530f911.png)
+![Screen Shot 2022-01-27 at 7 53 33 PM](https://user-images.githubusercontent.com/95730183/151480309-44bb06c6-0e3c-42b0-9b2a-9e1bc530f911.png)
 
 ## Summary 
 There was not a significant change to scores in math and reading after running the analysis by repalcing the scores values with "NaN."  
