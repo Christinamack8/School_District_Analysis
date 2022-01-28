@@ -40,4 +40,4 @@ The school board has evidence of academic dishonesty; specifically, reading and 
  ![Screen Shot 2022-01-27 at 7 53 33 PM](https://user-images.githubusercontent.com/95730183/151480309-44bb06c6-0e3c-42b0-9b2a-9e1bc530f911.png)
 
 ## Summary 
- 
+There was not a significant change to scores in math and reading after running the analysis by repalcing the scores values with "NaN."  
