@@ -34,7 +34,7 @@ The school board has evidence of academic dishonesty; specifically, reading and 
      
   * Scores by school size
 
-  ![Screen Shot 2022-01-27 at 7 53 25 PM](https://user-images.githubusercontent.com/95730183/151480299-d8777bc9-3629-4963-89c6-803881621f6b.png)
+   ![Screen Shot 2022-01-27 at 7 53 25 PM](https://user-images.githubusercontent.com/95730183/151480299-d8777bc9-3629-4963-89c6-803881621f6b.png)
 
   * Scores by school type
   ![Screen Shot 2022-01-27 at 7 53 33 PM](https://user-images.githubusercontent.com/95730183/151480309-44bb06c6-0e3c-42b0-9b2a-9e1bc530f911.png)
