@@ -21,7 +21,8 @@ The school board has evidence of academic dishonesty; specifically, reading and 
   * Math and reading scores by grade
   ### Average Math Scores by Grade and School
   
-  
+  ![Screen Shot 2022-01-27 at 7 52 59 PM](https://user-images.githubusercontent.com/95730183/151480121-71e90ab6-5909-40f1-822e-65b512ec962b.png)
+
   
   ### Average Reading Scores by Grade and School
   
