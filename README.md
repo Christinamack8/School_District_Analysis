@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of Analysis
-The school board has evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Need to perform and analysis to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Then repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
+The school board has evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. In this analysis we will replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Then repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 
 ## Results
 * How is the district summary affected?
