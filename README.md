@@ -8,7 +8,14 @@ The school board has evidence of academic dishonesty; specifically, reading and 
 
 
 * How is the school summary affected?
+![Screen Shot 2022-01-27 at 7 52 07 PM](https://user-images.githubusercontent.com/95730183/151479462-0d72cdbd-c5b5-4529-9416-c7c9977b3c30.png)
+
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![Screen Shot 2022-01-27 at 7 52 44 PM](https://user-images.githubusercontent.com/95730183/151479566-39962607-8871-46fe-99c7-bf3524a99379.png)
+
+![Screen Shot 2022-01-27 at 7 52 48 PM](https://user-images.githubusercontent.com/95730183/151479597-a6b6bfcc-42ae-46e4-b613-9ee460fbe4d3.png)
+
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
   * Scores by school spending
