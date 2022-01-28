@@ -19,6 +19,14 @@ The school board has evidence of academic dishonesty; specifically, reading and 
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  ### Average Math Scores by Grade and School
+  
+  
+  
+  ### Average Reading Scores by Grade and School
+  
+  ![Screen Shot 2022-01-27 at 7 53 08 PM](https://user-images.githubusercontent.com/95730183/151479964-7c6bfd67-9c13-4d11-be14-5f94ee770b82.png)
+
   * Scores by school spending
   * Scores by school size
   * Scores by school type
